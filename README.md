@@ -1,1 +1,2 @@
-# CommonTool
+# CommonTool   
+这个项目主要是作为本人开发过程中常用的工具类的仓库项目
